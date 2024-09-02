@@ -1,2 +1,2 @@
 # OOPS
-Repository containing python codes of object oriented programming 
+Repository containing python codes of object oriented programming and decorators
